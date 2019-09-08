@@ -1,0 +1,23 @@
+﻿@model SistemZaRezervacijeApartmana.Models.SadrzajApartmana
+@{
+    ViewBag.Title = "KreirajSadrzajApartmana";
+}
+
+<h3>Kreiranje sadrzaja apartmana</h3>
+<br />
+
+<form action="/Admin/KreirajSadrzajApartmana" method="post">
+    <table>
+        <tr>
+            <td>Naziv:</td>
+            <td><input type="text" name="nazivSadrzaja" /></td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <input type="submit" value="Kreiraj" />
+            </td>
+        </tr>
+    </table>
+</form>
+
+

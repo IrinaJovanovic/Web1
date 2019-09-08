@@ -1,0 +1,324 @@
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\ApplicationInsights.config
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\roslyn\csc.exe
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\roslyn\System.Collections.Immutable.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\roslyn\System.Reflection.Metadata.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\roslyn\vbc.exe
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\roslyn\VBCSCompiler.exe
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\roslyn\VBCSCompiler.exe.config
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\SistemZaRezervacijeApartmana.dll.config
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\SistemZaRezervacijeApartmana.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\SistemZaRezervacijeApartmana.pdb
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Antlr3.Runtime.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\EntityFramework.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\EntityFramework.SqlServer.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.AI.Agent.Intercept.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.AI.DependencyCollector.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.AI.Web.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.AI.WindowsServer.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.ApplicationInsights.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.Core.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Cookies.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Facebook.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Google.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.OAuth.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Twitter.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Web.Infrastructure.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Newtonsoft.Json.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Owin.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\System.Web.Helpers.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\System.Web.Mvc.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\System.Web.Optimization.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\System.Web.Razor.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.Deployment.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.Razor.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\WebGrease.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.AI.DependencyCollector.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.AI.Web.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.AI.WindowsServer.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.ApplicationInsights.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\System.Web.Helpers.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\System.Web.Mvc.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\System.Web.Optimization.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\System.Web.Razor.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.Deployment.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.Razor.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Antlr3.Runtime.pdb
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Newtonsoft.Json.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\EntityFramework.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\EntityFramework.SqlServer.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.Core.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Facebook.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Cookies.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.OAuth.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Google.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Twitter.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\obj\Debug\SistemZaRezervacijeApartmana.dll
+D:\fax\III godina\Web programiranje\SistemZaRezervacijeApartmana\SistemZaRezervacijeApartmana\obj\Debug\SistemZaRezervacijeApartmana.pdb
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\ApplicationInsights.config
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\roslyn\csc.exe
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\roslyn\vbc.exe
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\SistemZaRezervacijeApartmana.dll.config
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\SistemZaRezervacijeApartmana.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\SistemZaRezervacijeApartmana.pdb
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Antlr3.Runtime.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\EntityFramework.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\EntityFramework.SqlServer.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.AI.Web.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Newtonsoft.Json.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Owin.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\System.Web.Helpers.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\System.Web.Mvc.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\System.Web.Optimization.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\System.Web.Razor.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\WebGrease.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.AI.Web.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\System.Web.Helpers.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\System.Web.Mvc.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\System.Web.Optimization.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\System.Web.Razor.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Antlr3.Runtime.pdb
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\EntityFramework.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\EntityFramework.SqlServer.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\obj\Debug\SistemZaRezervacijeApartmana.dll
+C:\Users\Bogdan Lovrencic\Documents\Gitlab\PW-125-2015-WebProjekat\SistemZaRezervacijeApartmana\obj\Debug\SistemZaRezervacijeApartmana.pdb
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\ApplicationInsights.config
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\csc.exe
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\System.Collections.Immutable.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\System.Reflection.Metadata.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\vbc.exe
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\VBCSCompiler.exe
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\VBCSCompiler.exe.config
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\SistemZaRezervacijeApartmana.dll.config
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\SistemZaRezervacijeApartmana.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\SistemZaRezervacijeApartmana.pdb
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Antlr3.Runtime.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\EntityFramework.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\EntityFramework.SqlServer.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.DependencyCollector.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.Web.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.WindowsServer.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.ApplicationInsights.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Google.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Web.Infrastructure.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Newtonsoft.Json.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Owin.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.Helpers.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.Mvc.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.Optimization.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.Razor.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.Deployment.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.Razor.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\WebGrease.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.DependencyCollector.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.Web.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.WindowsServer.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.ApplicationInsights.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.Helpers.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.Mvc.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.Optimization.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.Razor.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.Deployment.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.Razor.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Antlr3.Runtime.pdb
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\EntityFramework.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\EntityFramework.SqlServer.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Google.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\obj\Debug\SistemZaRezervacijeApartmana.dll
+D:\Preuzimanja\pw-125-2015-webprojekat-master (1)\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\obj\Debug\SistemZaRezervacijeApartmana.pdb
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\ApplicationInsights.config
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\SistemZaRezervacijeApartmana.dll.config
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\SistemZaRezervacijeApartmana.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\SistemZaRezervacijeApartmana.pdb
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\EntityFramework.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Owin.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.Optimization.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\WebGrease.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.Optimization.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\EntityFramework.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\obj\Debug\SistemZaRezervacijeApartmana.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\obj\Debug\SistemZaRezervacijeApartmana.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\obj\Debug\SistemZaRezervacijeApartmana.csproj.CopyComplete
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\obj\Debug\SistemZaRezervacijeApartmana.dll
+C:\Users\DELL\Desktop\pw-125-2015-webprojekat-master\pw-125-2015-webprojekat-master\SistemZaRezervacijeApartmana\obj\Debug\SistemZaRezervacijeApartmana.pdb

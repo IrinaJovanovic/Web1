@@ -1,0 +1,29 @@
+﻿@model SistemZaRezervacijeApartmana.Models.SadrzajApartmana
+@{
+    ViewBag.Title = "IzmeniSadrzajApartmana";
+}
+<style>
+    body{
+        background-color:lightgray;
+    }
+</style>
+
+<h3>Izmena sadrzaja apartmana</h3>
+<br />
+<form action="/Admin/IzmeniSadrzajApartmana" method="post">
+    <table>
+        <tr>
+            <td>Id:</td>
+            <td><input type="text" name="id" readonly value="@Model.Id" /> </td>
+        </tr>
+        <tr>
+            <td>Naziv:</td>
+            <td><input type="text" name="naziv" value="@Model.Naziv" /></td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <input type="submit" value="Izmeni" />               
+            </td>
+        </tr>
+    </table>
+</form>

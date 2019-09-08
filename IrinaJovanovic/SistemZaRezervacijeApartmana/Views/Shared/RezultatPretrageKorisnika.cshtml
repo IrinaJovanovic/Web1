@@ -1,0 +1,41 @@
+﻿@model List<SistemZaRezervacijeApartmana.Models.Korisnik>
+@{
+    ViewBag.Title = "RezultatPretrageKorisnika";
+}
+
+<html>
+<head>
+    <script>
+            function goBack() {
+                window.history.back();
+            }
+    </script>
+</head>
+<body>
+    <h2>Rezultati pretrage korisnika</h2>
+    <table border="1">
+        <tr>
+            <td><b>Ime</b></td>
+            <td><b>Prezime</b></td>
+            <td><b>Korisnicko ime</b></td>
+            <td><b>Lozinka</b></td>
+            <td><b>Pol</b></td>
+            <td><b>Uloga</b></td>
+         
+        </tr>
+        @foreach (SistemZaRezervacijeApartmana.Models.Korisnik k in Model)
+        {
+            <tr>
+                <td>@k.Ime</td>
+                <td>@k.Prezime</td>
+                <td>@k.KorisnickoIme</td>
+                <td>@k.Lozinka</td>
+                <td align="center">@k.Pol.ToString()</td>             
+                <td align="center">@k.Uloga.ToString()</td>            
+            </tr>
+        }
+    </table>
+    <button onclick="goBack()">Nazad</button>
+</body>
+</html>
+

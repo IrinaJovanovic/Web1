@@ -1,0 +1,102 @@
+﻿@model SistemZaRezervacijeApartmana.Models.Apartman
+
+@{
+    ViewBag.Title = "KreirajApartman";
+}
+<style>
+    body{
+        background-color:lightseagreen;
+    }
+</style>
+<h3>Kreiranje apartmana</h3>
+<br />
+
+<form action="/Domacin/KreirajApartman" method="post" enctype="multipart/form-data">
+    <table>
+        <tr>
+            <td>Tip: </td>
+            <td align="left">
+                <select name="tipApartmana">
+                    <option value="CEO_APARTMAN">Ceo apartman</option>
+                    <option value="SOBA">Soba</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Broj soba: </td>
+            <td><input type="text" name="brSoba"> </td>
+        </tr>
+        <tr>
+            <td>Broj gostiju:</td>
+            <td><input type="text" name="brGostiju"></td>
+        </tr>
+        <tr>
+            <td>Ulica: </td>
+            <td><input type="text" name="ulica" /></td>
+            <td>Broj: </td>
+            <td><input type="text" name="broj" /></td>
+            <td>Grad: </td>
+            <td><input type="text" name="grad" /></td>
+            <td>Postanski broj: </td>
+            <td><input type="text" name="postBroj" /></td>
+
+        </tr>
+        <tr>
+            <td>Datumi za izdavanje: </td>
+            <td><input type="datetime" name="datumiIzdavanje" /></td>
+        </tr>
+        <tr>
+            <td>Cena po noci: </td>
+            <td><input type="text" name="cena" /></td>
+        </tr>
+        <tr>
+            <td>Status: </td>
+            <td >
+                <select name="statusApartmana">
+                    <option value="NEAKTIVAN">Neaktivan</option>
+                    @*<option value="AKTIVAN">Aktivan</option>*@
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Vreme za prijavu: </td>
+            <td><input type="time" name="vremePrijava" /></td>
+            <td>Vreme za odjavu: </td>
+            <td><input type="time" name="vremeOdjava" /></td>
+        </tr>
+        <tr>
+            <td>Slike:</td>
+            <td>
+                <input type="file" name="slike" multiple="multiple">
+            </td>
+        </tr>
+        <tr></tr>
+        <tr>
+                <td>Izaberite sadrzaje:</td>
+                <td>
+                    <select name="sadrzajiApartmana" multiple="multiple">
+                        @foreach (var sadrzaj in SistemZaRezervacijeApartmana.Models.Database.sadrzajiApartmana.Values)
+                        {
+                            if (!sadrzaj.IsDeleted)
+                            {
+                                <option value="@sadrzaj.Naziv">@sadrzaj.Naziv</option>
+                            }
+                        }
+                    </select>
+                </td>
+        </tr>
+            <tr>
+                <td colspan="2" align="center">
+                    <input type="submit" value="Kreiraj apartman" />
+                </td>
+         </tr>
+        </table>
+</form>
+<br />
+
+
+
+   
+
+
+

@@ -1,0 +1,45 @@
+﻿@model List<SistemZaRezervacijeApartmana.Models.Apartman> 
+@{
+    ViewBag.Title = "RezultatSortiranja";
+}
+
+<html>
+<head>
+    <script>
+            function goBack() {
+                window.history.back();
+            }
+    </script>
+</head>
+<body>
+    <h2>Rezultat sortiranja</h2>
+    <table border="1">
+        <tr>
+            <td align="center"><b>Tip</b></td>
+            <td><b>Broj soba</b></td>
+            <td><b>Broj gostiju</b></td>
+            <td><b>Adresa</b></td>
+            <td><b>Cena po noci</b></td>
+            <td align="center"><b>Domacin</b></td>
+            <td><b>Vreme za prijavu</b></td>
+            <td><b>Vreme za odjavu</b></td>
+            <td><b>Status</b></td>
+        </tr>
+        @foreach (SistemZaRezervacijeApartmana.Models.Apartman ap in Model)
+        {
+            <tr>
+                <td>@ap.TipApartman.ToString()</td>
+                <td align="center">@ap.BrojSoba.ToString()</td>
+                <td align="center">@ap.BrojGostiju.ToString()</td>
+                <td>@ap.Lokacija.Adresa.Ulica @ap.Lokacija.Adresa.Broj @ap.Lokacija.Adresa.Grad @ap.Lokacija.Adresa.PostanskiBroj</td>
+                <td align="center">@ap.CenaPoNoci.ToString()</td>
+                <td>@ap.Domacin.Ime @ap.Domacin.Prezime</td>
+                <td align="center">@ap.VremeZaPrijavu</td>
+                <td align="center">@ap.VremeZaOdjavu</td>
+                <td>@ap.Status.ToString()</td>
+            </tr>
+        }
+    </table>
+    <button onclick="goBack()">Nazad</button>
+</body>
+</html>

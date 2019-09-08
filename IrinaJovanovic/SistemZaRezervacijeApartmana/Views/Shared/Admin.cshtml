@@ -1,0 +1,440 @@
+﻿@model SistemZaRezervacijeApartmana.Models.Korisnik
+
+<html>
+            <head>
+                <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+                <script src="~/Scripts/jquery.validate.min.js"></script>
+                <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+                <style>
+                     body{
+                           /*background-image: url("vila.jpg");*/
+                           /*background-position:initial;
+                           background-repeat: no-repeat;
+                           background-size:cover;*/
+                           background-color:lightcyan;
+                       }
+                    .tab {
+                        overflow: hidden;
+                        border: 1px solid #ccc;
+                        background-color: lightgray;
+                    }
+
+                        /* Style the buttons that are used to open the tab content */
+                        .tab button {
+                            background-color: inherit;
+                            float: left;
+                            border: none;
+                            outline: none;
+                            cursor: pointer;
+                            padding: 14px 16px;
+                            transition: 0.3s;
+                        }
+
+                            /* Change background color of buttons on hover */
+                            .tab button:hover {
+                                background-color: lightblue;
+                            }
+
+                            /* Create an active/current tablink class */
+                            .tab button.active {
+                                background-color: khaki;
+                            }
+
+                    /* Style the tab content */
+                    .tabcontent {
+                        display: none;
+                        padding: 6px 12px;
+                        border: 1px solid #ccc;
+                        border-top: none;
+                        background-color: khaki;
+                    }
+                </style>
+                <script>
+                    function openCity(evt, cityName) {
+                        // Declare all variables
+                        var i, tabcontent, tablinks;
+
+                        // Get all elements with class="tabcontent" and hide them
+                        tabcontent = document.getElementsByClassName("tabcontent");
+                        for (i = 0; i < tabcontent.length; i++) {
+                            tabcontent[i].style.display = "none";
+                        }
+
+                        // Get all elements with class="tablinks" and remove the class "active"
+                        tablinks = document.getElementsByClassName("tablinks");
+                        for (i = 0; i < tablinks.length; i++) {
+                            tablinks[i].className = tablinks[i].className.replace(" active", "");
+                        }
+
+                        // Show the current tab, and add an "active" class to the button that opened the tab
+                        document.getElementById(cityName).style.display = "block";
+                        evt.currentTarget.className += " active";
+                    }
+                </script>
+            </head>
+
+
+      <body>
+                <h2>Admin</h2>
+                <div class="tab">
+                    <button class="tablinks" onclick="openCity(event, 'Profil')">Profil</button>
+                    <button class="tablinks" onclick="openCity(event, 'IzmeniPodatke')">Izmeni podatke</button>
+                    <button class="tablinks" onclick="openCity(event, 'KreirajDomacina')">Kreiraj domacina</button>
+                    <button class="tablinks" onclick="openCity(event, 'RegistrovaniKorisnici')">Registrovani korisnici</button>                    
+                    <button class="tablinks" onclick="openCity(event, 'UpravljanjeApartmanima')">Upravljanje apartmanima</button>
+                    <button class="tablinks" onclick="openCity(event, 'SviKomentariNaApartmane')">Svi komentari</button>
+                    <button class="tablinks" onclick="openCity(event, 'UpravljanjeSadrzajimaApartmana')">Uparavljanje sadrzajima apartmana</button>
+                </div>
+
+                <div id="Profil" class="tabcontent">
+                    <table>
+                        <tr>
+                            <td>Korisnicko ime:</td>
+                            <td>@Model.KorisnickoIme</td>
+                        </tr>
+                        <tr>
+                            <td>Lozinka: </td>
+                            <td>@Model.Lozinka</td>
+                        </tr>
+                        <tr>
+                            <td>Ime: </td>
+                            <td>@Model.Ime</td>
+                        </tr>
+                        <tr>
+                            <td>Prezime: </td>
+                            <td>@Model.Prezime</td>
+                        </tr>
+                        <tr>
+                            <td>Pol: </td>
+                            <td>@Model.Pol.ToString()</td>
+                        </tr>
+
+                    </table>
+                </div>
+
+                <div id="IzmeniPodatke" class="tabcontent">
+                    <form action="/Admin/IzmenaPodataka" method="post">
+                        <table>
+                            <tr>
+                                <td>Korisnicko ime:</td>
+                                <td><input type="text" name="username" readonly value=@Model.KorisnickoIme></td>
+                            </tr>
+                            <tr>
+                                <td>Lozinka: </td>
+                                <td><input type="text" name="pass" value=@Model.Lozinka></td>
+                            </tr>
+                            <tr>
+                                <td>Ime: </td>
+                                <td><input type="text" name="ime" value=@Model.Ime></td>
+                            </tr>
+                            <tr>
+                                <td>Prezime: </td>
+                                <td><input type="text" name="prezime" value=@Model.Prezime></td>
+                            </tr>
+                            <tr>
+                                <td>Pol: </td>
+                                <td align="left">
+                                    <select name="pol" value=@Model.Pol>
+                                        <option value="MUSKI">Muski</option>
+                                        <option value="ZENSKI">Zenski</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" align="center"><input type="submit" value="Izmeni" ></td>
+                            </tr>
+                        </table>
+                    </form>
+                </div>
+
+                <div id="KreirajDomacina" class="tabcontent">
+                    <form action="/Admin/KreirajDomacina" method="post">
+                        <table>
+                            <tr>
+                                <td>Ime: </td>
+                                <td><input type="text" name="ime"> </td>
+                            </tr>
+                            <tr>
+                                <td>Prezime: </td>
+                                <td><input type="text" name="prezime"> </td>
+                            </tr>
+                            <tr>
+                                <td>Korisnicko ime:</td>
+                                <td><input type="text" name="korIme"></td>
+                            </tr>
+                            <tr>
+                                <td>Lozinka: </td>
+                                <td><input type="password" name="lozinka" /></td>
+                            </tr>
+                            <tr>
+                                <td>Pol: </td>
+                                <td align="left">
+                                    <select name="pol">
+                                        <option value="MUSKI">Muski</option>
+                                        <option value="ZENSKI">Zenski</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" align="center"><input type="submit" value="Kreiraj domacina"></td>
+                            </tr>
+                        </table>
+                    </form>
+
+                </div>
+
+           <div id="RegistrovaniKorisnici" class="tabcontent">
+              <h4>Svi registrovani korisnici</h4>
+              <table border="1">
+                  <tr>
+                      <td><b>Ime</b></td>
+                      <td><b>Prezime</b></td>
+                      <td><b>Korisnicko ime</b></td>
+                      <td><b>Pol</b></td>
+                      <td><b>Tip korisnika</b></td>
+                  </tr>
+                  @foreach (SistemZaRezervacijeApartmana.Models.Korisnik k in SistemZaRezervacijeApartmana.Models.Database.registrovaniKorisnici.Values)
+                  {
+                      <tr>
+                          <td align="center">@k.Ime</td>
+                          <td>@k.Prezime</td>
+                          <td align="center">@k.KorisnickoIme</td>
+                          <td>@k.Pol.ToString()</td>
+                          <td>@k.Uloga.ToString()</td>
+                         
+                      </tr>
+                  }
+              </table><br />
+            
+                   <form action="/Admin/PretragaKorisnika" method="post">
+                       <h4>Pretraga korisnika</h4>
+                       <table>
+                           <tr>
+                               <td>Po ulozi:</td>
+                               <td>
+                                  <input type="text" name="uloga" />                   
+                               </td>
+                           </tr>
+                           <tr>
+                               <td>Po polu:</td>
+                               <td>
+                                   <input type="text" name="pol" />
+                               </td>
+                           </tr>
+                           <tr>
+                               <td>Po korisnickom imenu:</td>
+                               <td>
+                                   <input type="text" name="korIme" />
+                               </td>
+                           </tr>
+                           <tr>
+                               <td colspan="2" align="center">
+                                   <input type="submit" value="Pretrazi" />
+                               </td>
+                           </tr>
+                       </table>
+
+                   </form>
+        </div>
+
+          @*<div id="SviApartmani" class="tabcontent">
+              <h4>Spisak svih apartmana</h4>
+              <table border="1">
+                  <tr>
+                      <td><b>Tip</b></td>
+                      <td><b>Broj soba</b></td>
+                      <td><b>Broj gostiju</b></td>
+                      <td><b>Adresa</b></td>                  
+                      <td><b>Cena po noci</b></td>
+                      <td><b>Domacin</b></td>
+                      <td><b>Vreme za prijavu</b></td>
+                      <td><b>Vreme za odjavu</b></td>
+                      <td><b>Status</b></td>
+                  </tr>
+                  @foreach (SistemZaRezervacijeApartmana.Models.Apartman apart in SistemZaRezervacijeApartmana.Models.Database.sviApartmani.Values)
+                  {
+                      <tr>
+                          <td>@apart.TipApartman.ToString()</td>
+                          <td align="center">@apart.BrojSoba.ToString()</td>
+                          <td align="center">@apart.BrojGostiju.ToString()</td>
+                          <td>@apart.Lokacija.Adresa.Ulica @apart.Lokacija.Adresa.Broj @apart.Lokacija.Adresa.Grad @apart.Lokacija.Adresa.PostanskiBroj</td>
+                          <td align="center">@apart.CenaPoNoci.ToString()</td>
+                          <td>@apart.Domacin.Ime @apart.Domacin.Prezime</td>
+                          <td align="center">@apart.VremeZaPrijavu</td>
+                          <td align="center">@apart.VremeZaOdjavu</td>
+                          <td>@apart.Status.ToString()</td>
+
+                      </tr>
+                  }
+              </table><br />
+          </div>*@
+
+          <div id="UpravljanjeApartmanima" class="tabcontent">
+              <form action="/Admin/OdobriApartman" method="post">
+                  <select name="apartman">
+                      @{
+                          foreach (SistemZaRezervacijeApartmana.Models.Apartman ap in SistemZaRezervacijeApartmana.Models.Database.sviApartmani.Values)
+                          {
+                              if (ap.Status == SistemZaRezervacijeApartmana.Models.StatusApartmana.NEAKTIVAN && !ap.IsDeleted)
+                              {
+                                  <option value="@ap.Id">@ap.Domacin.KorisnickoIme - @ap.TipApartman.ToString()| @ap.CenaPoNoci| @ap.Lokacija.Adresa.Ulica| @ap.Lokacija.Adresa.Broj| @ap.Lokacija.Adresa.Grad</option>
+                               }
+                          }
+                      }
+                   </select>
+                  <br />
+                  <input type="submit" value="Odobri" />
+              </form>
+              <h4> Svi apartmani </h4>
+              <table border="1">
+                  <tr>
+                      <td><b>Tip</b></td>
+                      <td><b>Broj soba</b></td>
+                      <td><b>Broj gostiju</b></td>
+                      <td><b>Adresa</b></td>
+                      <td><b>Cena po noci</b></td>
+                      <td><b>Domacin</b></td>
+                      <td><b>Vreme za prijavu</b></td>
+                      <td><b>Vreme za odjavu</b></td>
+                      <td><b>Status</b></td>
+                      <td><b>SadrzajiApartmana</b></td>
+                  </tr>
+                  @foreach (SistemZaRezervacijeApartmana.Models.Apartman apart in SistemZaRezervacijeApartmana.Models.Database.sviApartmani.Values)
+                  {
+                      if (!apart.IsDeleted)
+                      {
+                        <tr>
+                            <td>@apart.TipApartman.ToString()</td>
+                            <td align="center">@apart.BrojSoba.ToString()</td>
+                            <td align="center">@apart.BrojGostiju.ToString()</td>
+                            <td>@apart.Lokacija.Adresa.Ulica @apart.Lokacija.Adresa.Broj @apart.Lokacija.Adresa.Grad @apart.Lokacija.Adresa.PostanskiBroj</td>
+                            <td align="center">@apart.CenaPoNoci.ToString()</td>
+                            <td>@apart.Domacin.Ime @apart.Domacin.Prezime</td>
+                            <td align="center">@apart.VremeZaPrijavu</td>
+                            <td align="center">@apart.VremeZaOdjavu</td>
+                            <td>@apart.Status.ToString()</td>
+                            <td>
+                                <ul>
+                                    @foreach (SistemZaRezervacijeApartmana.Models.SadrzajApartmana sadrzaj in apart.SadrzajiApartmana)
+                                    {
+                                        if (!sadrzaj.IsDeleted)
+                                        {
+                                            <li>@sadrzaj.Naziv</li>
+
+                                        }
+                                    }
+                                </ul>
+
+                            </td>
+                            <td>
+                                <form action="/Admin/OtvoriIzmeniApartView" method="post">
+                                    <input type="submit" value="Izmeni" />
+                                    @*<input type="hidden" name="korImeAdmina" value="@Model.KorisnickoIme" />*@
+                                    <input type="hidden" name="idApartmana" value="@apart.Id" />
+                                </form>
+                            </td>
+                            <td>
+                                <form action="/Admin/ObrisiApartman" method="post">
+                                    <input type="submit" value="Obrisi" />
+                                    @*<input type="hidden" name="korImeAdmina" value="@Model.KorisnickoIme" />*@
+                                    <input type="hidden" name="idApartmana" value="@apart.Id" />
+                                </form>
+                            </td>
+
+                        </tr>
+                      }
+                  }
+              </table>
+              <br />
+              <form action="/Admin/FiltrirajApartmane" method="post">
+                  <h4>Filtriranje apartmana</h4>
+                  <table>
+                      <tr>
+                          <td>Po sadrzaju:</td>
+                          <td><input type="text" name="sadrzaj" /></td>
+                      </tr>
+                      <tr>
+                          <td>Po tipu:</td>
+                          <td><input type="text" name="tip" /></td>
+                      </tr>
+                      <tr>
+                          <td>Po statusu:</td>
+                          <td><input type="text" name="status" /></td>
+                      </tr>
+                      <tr>                       
+                          <td colspan="2" align="center">
+                            <input type="submit" value="Filtriraj"/>
+                          </td>
+                      </tr>
+                  </table>
+              </form>
+          </div>
+                
+          <div id="SviKomentariNaApartmane" class="tabcontent">
+              <h4>Pregled komentara korisnika na apartmane</h4>
+              <table border="1">
+                  <tr>
+                      <td><b>Id</b></td>
+                      <td><b>Gost</b></td>
+                      <td><b>Apartman</b></td>
+                      <td><b>Tekst</b></td>
+                      <td><b>Ocena</b></td>
+                  </tr>
+                  @foreach (SistemZaRezervacijeApartmana.Models.KomentarZaApartman komentar in SistemZaRezervacijeApartmana.Models.Database.komentariZaApartmane.Values)
+                  {
+                      <tr>
+                          <td align="center">@komentar.Id.ToString()</td>
+                          <td>@komentar.Gost.KorisnickoIme</td>
+                          <td>@komentar.Apartman.Lokacija.Adresa.Ulica @komentar.Apartman.Lokacija.Adresa.Broj, @komentar.Apartman.Lokacija.Adresa.Grad</td>
+                          <td>@komentar.Tekst</td>
+                          <td align="center">@komentar.OcenaApartmana.ToString()</td>
+                      </tr>
+                  }
+              </table>
+          </div>
+
+          <div id="UpravljanjeSadrzajimaApartmana" class="tabcontent">
+              <form action="/Admin/DodajSadrzajApartmanaView" method="post">
+                  <input type="submit" value="Dodaj sadrzaj" />
+              </form>
+              <br />
+              @*izmena*@
+              <h4>Sadrzaji apartmana</h4>
+              <table border="1">
+                  <tr>
+                      <td><b>Id</b></td>
+                      <td><b>Naziv</b></td> 
+                              
+                  </tr>
+                      @foreach (SistemZaRezervacijeApartmana.Models.SadrzajApartmana sadrzaj in SistemZaRezervacijeApartmana.Models.Database.sadrzajiApartmana.Values)
+                      {
+                          if (!sadrzaj.IsDeleted)
+                          {
+                            <tr>
+                                <td>@sadrzaj.Id.ToString()</td>
+                                <td>@sadrzaj.Naziv</td>
+                           
+                                <td>
+                                    <form action="/Admin/IzmeniSadrzajApartView" method="post">
+                                        <input type="hidden" name="idSadrzaja" value="@sadrzaj.Id" />
+                                        @*<input type="hidden" name="idApartmana" value="@apart.Id" />*@
+                                        <input type="submit" value="Izmeni" />
+                                    </form>
+                                </td>
+                                <td>
+                                    <form action="/Admin/ObrisiSadrzajApartmana" method="post">
+                                        <input type="submit" value="Obrisi" />
+                                        <input type="hidden" name="idSadrzaja" value="@sadrzaj.Id" />
+                                        @*<input type="hidden" name="idApartmana" value="@apart.Id" />*@
+                                    </form>
+                                </td>
+                            </tr>
+                          }
+                      }           
+              </table>
+          </div>
+              <form action="/User/LogOut">
+                  <input type="submit" value="Odjavi se">
+              </form>
+    </body>
+</html>

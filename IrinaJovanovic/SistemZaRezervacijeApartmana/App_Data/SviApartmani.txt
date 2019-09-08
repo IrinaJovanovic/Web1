@@ -1,0 +1,3 @@
+CEO_APARTMAN_5_12_100|Kraljevica Marka|32|21000|Novi Sad|Igor_Jovanovic_08:08-15:00_AKTIVAN
+CEO_APARTMAN_1_2_15|Milosa Crnjanskog |8|21000|Novi Sad|Igor_Jovanovic_09:09-17:01_AKTIVAN
+

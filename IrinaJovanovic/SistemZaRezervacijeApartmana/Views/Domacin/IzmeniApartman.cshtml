@@ -1,0 +1,122 @@
+﻿@model SistemZaRezervacijeApartmana.Models.Apartman
+
+@{
+    ViewBag.Title = "IzmeniApartman";
+}
+<style>
+    body{
+        background-color:lightblue
+    }
+
+</style>
+<h2>Izmena apartmana</h2>
+<br />
+<form action="/Domacin/IzmenaApartmana" method="post">
+<table>
+    <tr>
+        <td>Tip: </td>
+        <td align="left">
+            <select name="tipApartmana" value="@Model.TipApartman">
+                <option value="CEO_APARTMAN">Ceo apartman</option>
+                <option value="SOBA">Soba</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td>Broj soba: </td>
+        <td><input type="text" name="brSoba" value="@Model.BrojSoba.ToString()"> </td>
+    </tr>
+    <tr>
+        <td>Broj gostiju:</td>
+        <td><input type="text" name="brGostiju" value="@Model.BrojGostiju.ToString()"></td>
+    </tr>
+    <tr>
+        <td>Ulica: </td>
+        <td><input type="text" name="ulica" value="@Model.Lokacija.Adresa.Ulica"/></td>
+        <td>Broj: </td>
+        <td><input type="text" name="broj" value="@Model.Lokacija.Adresa.Broj"/></td>
+        <td>Grad: </td>
+        <td><input type="text" name="grad" value="@Model.Lokacija.Adresa.Grad" /></td>
+        <td>Postanski broj: </td>
+        <td><input type="text" name="postBroj" value="@Model.Lokacija.Adresa.PostanskiBroj"/></td>
+
+    </tr>
+    <tr>
+        <td>Datumi za izdavanje: </td>
+        <td>            
+            @{
+              string datumi="";
+            }
+
+            @foreach (DateTime datum in @Model.DatumiZaIzdavanje)
+            {
+                datumi += string.Format(datum.Day.ToString()+"."+datum.Month.ToString()+"."+datum.Year.ToString()+ ",");              
+            }
+            <input type="text" name="datumiIzdavanje" value="@datumi" />
+     
+        </td>
+    </tr>
+    <tr>
+        <td>Cena po noci: </td>
+        <td><input type="text" name="cena" value="@Model.CenaPoNoci.ToString()" /></td>
+    </tr>
+    <tr>
+        <td>Status: </td>
+        <td>
+            <select name="statusApartmana" value="@Model.Status">
+                <option value="NEAKTIVAN">Neaktivan</option>
+                <option value="AKTIVAN">Aktivan</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td>Vreme za prijavu: </td>
+        <td><input type="time" name="vremePrijava"  value="@Model.VremeZaPrijavu"/></td>
+        <td>Vreme za odjavu: </td>
+        <td><input type="time" name="vremeOdjava" value="@Model.VremeZaOdjavu"/></td>
+    </tr>
+    <tr>
+        <td>Slike:</td>
+        <td>
+            <input type="file" name="slike" multiple="multiple">
+        </td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>Izaberite sadrzaje:</td>
+        <td>
+            <select name="sadrzajiApartmana" multiple="multiple" >   
+                @foreach (var sad in Model.SadrzajiApartmana)
+                {
+                    <option value="@sad.Naziv" selected>@sad.Naziv</option>
+                }    
+                                     
+                    @foreach(var sadrzaj in SistemZaRezervacijeApartmana.Models.Database.sadrzajiApartmana.Values)
+                    {
+                        if (!sadrzaj.IsDeleted)
+                        {
+                            var s = (Model.SadrzajiApartmana.Find(x => x.Id == sadrzaj.Id));
+
+                            if (s == null)
+                            {
+                                <option value="@sadrzaj.Naziv">@sadrzaj.Naziv</option>
+                            }
+                            else
+                            {
+                                continue;
+                            }
+                        }
+
+                    }          
+            </select>
+        </td>
+    </tr>
+
+    <tr>
+        <td colspan="2" align="center">
+            <input type="hidden" name="idApartmana" value="@Model.Id" />
+            <input type="submit" value="Izmeni" />
+        </td>
+    </tr>
+</table>
+</form>

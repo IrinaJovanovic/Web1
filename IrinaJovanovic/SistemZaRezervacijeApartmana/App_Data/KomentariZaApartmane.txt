@@ -1,0 +1,5 @@
+bogi|Rumenacka_108,Novi Sad|Apartman je super opremljen,sve preporuke.|PET
+mica96|Rumenacka_108,Novi Sad|Jako sam zadovoljna sadrzajem apartmana i domacinom koji se potrudio da nam bude sve super.|CETIRI
+baja92|Rumenacka_108,Novi Sad|Apartman je u jakom losem stanju,vlasnika treba da bude sramota sto uopste izdaje takav apartman.|JEDAN
+mica96|Micurinova_20,Novi Sad|Apartman je ful opremljen, cist i sa novim stvarima.|CETIRI
+baja92|Micurinova_20,Novi Sad|Sve pohvale za domacina ovog apartmana,koji je u super stanju.|PET
